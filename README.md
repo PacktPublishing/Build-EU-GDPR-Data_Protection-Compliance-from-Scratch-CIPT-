@@ -1,8 +1,3 @@
-## $5 Tech Unlocked 2021!
-[Buy and download this product for only $5 on PacktPub.com](https://www.packtpub.com/)
------
-*The $5 campaign         runs from __December 15th 2020__ to __January 13th 2021.__*
-
 # Build EU GDPR Data Protection Compliance from Scratch (CIPT) [Video]
 This is the code repository for [Build EU GDPR Data Protection Compliance from Scratch (CIPT) [Video]](https://www.packtpub.com/in/business/build-eu-gdpr-data-protection-compliance-scratch-cipt-video), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the video course from start to finish.
 
